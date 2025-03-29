@@ -50,10 +50,10 @@ This project implements a supervised machine learning pipeline to predict diabet
 
 ## 📈 Sample Plots
 
-> 💡 **Tip:** You should add screenshots of your plots here after generating them.
+
 
 ```
-# Example Plots to include:
+# Plots to include:
 - Correlation Heatmap
 - Feature Distribution plots
 - Confusion Matrix
